@@ -1,0 +1,51 @@
+.wrapper {
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000000;
+    padding: 20px;
+    margin-top: 20px;
+    border: 7px dashed #383838;
+}
+
+body {
+    background-image: url("boxing-ring.jpg");
+    color: #fff;
+    background-size: cover;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+     font-family: "Bebas Neue", sans-serif;
+    border: none;
+    font-size: 23px;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    color: #fff;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+
+#increment-btn {
+    background: 	#bd3000;
+}
+
+#save-btn {
+    background: #ffaa00;
+}
+
